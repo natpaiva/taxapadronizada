@@ -2,6 +2,8 @@
 
 Calculate Directly Standardised Rates using phe_dsr 
 
+Pacote: PHEindicatormethods
+
 Exemplo de Taxa de incidência de Tuberculose bruta e padronziada por idade (por 100mil hab) nas UFs AM, RJ e SP - 2018 (método direto) ; pop padrão: brasil, 2018
 
 Fontes de dados:
