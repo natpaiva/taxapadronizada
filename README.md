@@ -1,4 +1,4 @@
-# taxapadronizada
+# Taxa padronizada (Directly Standardised Rates)
 
 Calculate Directly Standardised Rates using phe_dsr 
 
