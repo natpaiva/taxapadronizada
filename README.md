@@ -1,4 +1,5 @@
 # Taxa padronizada (Directly Standardised Rates)
+Natalia Paiva IESC UFRJ
 
 Calculate Directly Standardised Rates using phe_dsr 
 
